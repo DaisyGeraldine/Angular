@@ -14,7 +14,7 @@
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
             "outputPath": "dist/angular",
-            "baseHref": "https://DaisyGeraldine.github.io/Angular",
+            "baseHref": "https://daisygeraldine.github.io/Angular/",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
